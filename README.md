@@ -153,4 +153,4 @@ df1
 ![image](https://github.com/user-attachments/assets/62540181-a6a9-4cc6-a14a-fa337b473390)
 
 # Result
-       Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
+Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
